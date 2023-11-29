@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mustafa Hamad
-- 👀 I’m interested in Larning new thing 
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in 
+- 🌱 I’m currently learning P
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
