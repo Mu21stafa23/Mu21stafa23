@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Mustafa Hamad
-- 👀 I’m interested in 
-- 🌱 I’m currently learning P
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-Front End web dev
 
 <!---
 Mu21stafa23/Mu21stafa23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
