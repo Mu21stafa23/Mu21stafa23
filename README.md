@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mustafa Hamad
--Front End web dev
+-
 
 <!---
 Mu21stafa23/Mu21stafa23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
