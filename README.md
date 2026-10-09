@@ -23,15 +23,6 @@ I'm a front-end developer who builds fast, responsive web apps with **React**, *
 ![HTML & CSS](https://img.shields.io/badge/HTML_%26_CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Featured projects
-
-| Project | What it does | Built with |
-| :-- | :-- | :-- |
-| [**MOON Sound**](https://github.com/Mu21stafa23/Music-app) | Music player with time-synced lyrics and live lyric translation, installable as a PWA | Next.js · TypeScript · Tailwind CSS |
-| [**Saudization Calculator**](https://github.com/Mu21stafa23/Calculating-localization-in-professions) | Bilingual (AR · EN) calculator for Saudization quotas per profession, with dark mode | HTML · CSS · JavaScript |
-| [**E-Learning Platform UI**](https://github.com/Mu21stafa23/reactjs-tw-Elerning) | Landing, sign-in and registration pages for an e-learning site, with dark mode | React · Vite · Tailwind CSS |
-| [**Personal Website**](https://github.com/Mu21stafa23/personal-website) | My portfolio site | Next.js · TypeScript · Tailwind CSS |
-
 ### Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-elamin-688b24171/)
